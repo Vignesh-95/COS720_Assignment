@@ -1,0 +1,5 @@
+1. Has Each column read the same number of data items i.e. equal count without any alignments performed automatically?,
+Check the column prints individually?
+2. Data types of fields read in i.e. timestamp or datetime for date values, primary key ids, strings, email formats etc.
+3. Perform descriptive statistics on the unclean and clean data
+4.
